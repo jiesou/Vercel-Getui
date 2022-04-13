@@ -1,6 +1,6 @@
-# Vercle-Getui
+# Vercel-Getui
 
-使用 Vercle 免费搭建便捷的个推后端
+使用 Vercel 免费搭建便捷的个推后端
 
 ## 优点
 
@@ -15,7 +15,7 @@
 
 ## 部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/jiesou/Vercle-Getui/tree/main/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjiesou%2FVercel-Getui%2Ftree%2Fmain)
 
 ## 使用
 
