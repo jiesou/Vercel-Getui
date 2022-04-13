@@ -1,0 +1,3 @@
+[submodule "getui-pushapi-php-client-v2"]
+	path = getui-pushapi-php-client-v2
+	url = https://github.com/GetuiLaboratory/getui-pushapi-php-client-v2
