@@ -15,6 +15,8 @@ if (isset($body["bigImage"])) $notify->setBigImage($body["bigImage"]);
 if (isset($body["logo"])) $notify->setLogo($body["logo"]);
 if (isset($body["logoURL"])) $notify->setLogoUrl($body["logoURL"]);
 if (isset($body["channelId"])) $notify->setChannelId($body["channelId"]);
+if (isset($body["channelName"])) $notify->setChannelName($body["channelName"]);
+
 
 if (isset($body["click"][0])) {
     $clickType = $body["click"][0];
